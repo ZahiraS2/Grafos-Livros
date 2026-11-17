@@ -350,9 +350,11 @@ O ambiente Linux desta sessão executou os mesmos scripts com o prefixo
 
 ## PARTE VISUAL 
 
-<img width="1600" height="862" alt="WhatsApp Image 2026-11-17 at 13 32 51" src="https://github.com/user-attachments/assets/c307043f-4c8f-4093-b905-4c4a1ca7d1b1" />
+<img width="1680" height="967" alt="Captura de tela 2026-11-17 145626" src="https://github.com/user-attachments/assets/c384b65e-7a1d-4607-9aa1-31a63074d1f3" />
 
-<img width="406" height="1033" alt="WhatsApp Image 2026-11-17 at 13 32 51 (1)" src="https://github.com/user-attachments/assets/fed9cd4d-959f-419d-bcb2-1109c046f783" />
+<img width="545" height="707" alt="Captura de tela 2026-11-17 145648" src="https://github.com/user-attachments/assets/145bae7d-c9cc-41b0-a288-04d385d8fb33" />
 
-<img width="413" height="1026" alt="WhatsApp Image 2026-11-17 at 13 32 51 (2)" src="https://github.com/user-attachments/assets/ea59cfb8-6439-4166-b295-1776d3c0bbfb" />
+<img width="543" height="700" alt="Captura de tela 2026-11-17 145717" src="https://github.com/user-attachments/assets/ff087b81-9e81-4b37-aa7d-8f1c2411d0d8" />
+
+
 
