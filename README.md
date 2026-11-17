@@ -348,7 +348,7 @@ Para demonstrar com os dados preparados, use:
 O ambiente Linux desta sessão executou os mesmos scripts com o prefixo
 `PYTHONPATH=.venv-windows/Lib/site-packages python3`, como explicado acima.
 
-## PARET VISUAL 
+## PARTE VISUAL 
 
 <img width="1600" height="862" alt="WhatsApp Image 2026-11-17 at 13 32 51" src="https://github.com/user-attachments/assets/c307043f-4c8f-4093-b905-4c4a1ca7d1b1" />
 
